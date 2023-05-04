@@ -1,5 +1,5 @@
 # 👻 About Me:
-I'm a passionate game developer working on a Unity 2d game<br>I'm Interested to learn AI game development<br>I'm currently doing a course on Deep Learning via coursera<br>I'm working on my Blender & UI/UX skills.<br>
+Passionate game developer currently working on a Unity 2d game<br>Interested to learn AI game development<br>I'm currently doing a course on Deep Learning via coursera<br>I'm working on my Blender & UI/UX skills.<br>
 
 
 ## 🌐 Socials:
