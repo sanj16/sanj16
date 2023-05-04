@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👻 About Me:
 I'm a passionate game developer working on a Unity 2d game<br>I'm Interested to learn AI game development<br>I'm currently doing a course on Deep Learning via coursera<br>I'm working on my Blender & UI/UX skills.<br>
 
 
@@ -12,7 +12,3 @@ I'm a passionate game developer working on a Unity 2d game<br>I'm Interested to 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanj16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanj16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
